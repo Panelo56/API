@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/Panelo56/API/actions/workflows/gradle.yml/badge.svg)](https://github.com/Panelo56/API/actions/workflows/gradle.yml)
+[![Build status](https://ci.appveyor.com/api/projects/status/30gs95ped4v41vqk/branch/main?svg=true)](https://ci.appveyor.com/project/Panelo56/api/branch/main)
